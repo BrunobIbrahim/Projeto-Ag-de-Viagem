@@ -61,6 +61,6 @@ Durante o desenvolvimento deste projeto, pude praticar:
 
 ## 👨‍💻 Desenvolvido por
 
-**Bruno Barros**
+**Bruno Barros**.
 
 Desenvolvido como parte dos meus estudos em **Desenvolvimento Web**.
